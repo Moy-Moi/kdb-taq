@@ -2,6 +2,9 @@
 
 ## Changes to kdb+taq
 
+## 2023.04-10 (CMTP Edits)
+Making edits to learn VeRsion Control guided by the Version Control CMTP.
+
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
 changing `Bid_Price` from real to float to avoid `Bid_Price`, `Offer_Price` type inconsistency
 
